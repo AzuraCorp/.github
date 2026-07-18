@@ -11,6 +11,7 @@ We are **AzuraCorp**! A non-commercial, fully open-source group. We(currently I)
 | :--- | :--- | :--- |
 | **[AzuraLang](https://github.com/AzuraCorp/AzuraLang)** | A fast, expressive custom language built for modern systems. | `Beta` (Now on PyPI!) |
 | **[Azura SPL(SecurePublicLicense)](https://github.com/AzuraCorp/SecurePublicLicense)** | An really simple but strong license for protecting your projects! | `v1.0` Done |
+| **AzuraOS** | The ultimate arch distro, with MacOS like aesthetics! | `In plans` |
 | *More coming soon...* | Dedicated to clean code and native efficiency. | `Planning` |
 
 ---
