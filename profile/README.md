@@ -5,31 +5,33 @@ We are **AzuraCorp**! A non-commercial, fully open-source group. We(currently I)
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 | Project | Description | Status |
 | :--- | :--- | :--- |
 | **[AzuraLang](https://github.com/AzuraCorp/AzuraLang)** | A fast, expressive custom GUI language built for most systems. | `Beta` (Now on PyPI!) |
 | **[Azura SPL(SecurePublicLicense)](https://github.com/AzuraCorp/SecurePublicLicense)** | An really simple but strong license for protecting your projects! | `v1.0` Done |
 | **AzuraOS** | The ultimate arch distro, with MacOS like aesthetics! | `In plans` |
-| *More coming soon...* | Dedicated to clean code and native efficiency. | `Planning` |
+| *More coming soon...* | ... | `...` |
 
 ---
 
-### 🛠️ Core Tech Stack
+### Main stuff
 
-*   **Languages:** Python, Bash, Web Technologies (HTML5/CSS3)
-*   **Environments:** Linux (Arch / Manjaro), Desktop Integration (PyQt6)
-*   **Workflows:** Automation via GitHub Actions, Secure PyPI Deployments
-*   **OS:** Somethin' is coming here...
+*   **Languages:** Python, Bash, WebKit (HTML5/CSS3)
+*   **Environments:** Linux (Arch / Manjaro), Docker
+*   **Code editors:** PyCharm(Com.), Nano
+*   **My main pc:** A8-3800, 8GB DDR3-1660, 250GB SATA SSD and a Asus Wifi card...
 
 ---
 
-### 📬 Connect with Us
+### Contact us! Or don't :3
 
 *   **GitHub:** [@AzuraCorp](https://github.com/AzuraCorp)
 *   **E-Mail** [azuracorp@duck.com](mailto:azuracorp@duck.com)
 *   **YouTube** [AzuraCorpYT](https://www.youtube.com/@AzuraCorpYT)
+*   **Reddit** [r/AzuraCorp](https://https://www.reddit.com/r/AzuraCorp/)
+*   **Discord?** _soon_
 <!--
 
 **Here are some ideas to get you started:**
