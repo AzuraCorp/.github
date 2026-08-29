@@ -1,4 +1,5 @@
 # ─── ❖ AzuraCorp ❖ ───
+**We make free products for people, not to gain profit.**
 ## Hi there everyone, Zhan2os1ks here!
 
 We are **AzuraCorp**! A non-commercial, fully open-source group. We(currently I) make stuff for other people. Our main goal is **to help people, by doing useful stuff open-source and not paid**. We sometimes vibe-code, but I always check the code first before publishing it.
